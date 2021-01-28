@@ -22,7 +22,7 @@ First, invite the bot on your server.
 
 * Then move the EndorCore role near the top like so
 
-![](Screenshot%202021-01-26%20183824.png)
+>![](Screenshot%202021-01-26%20183824.png)
 
 * Finally, make a role called Mute(the bot should automaticly make this in the future)
 
