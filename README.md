@@ -36,6 +36,9 @@ The comands are:
 * hi
 * shut-up
 * gn
+* gm
+* how-are-you
+* meme
 * info
 * commands
 
