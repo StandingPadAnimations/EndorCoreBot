@@ -8,7 +8,7 @@
 
 ## General info
 * This is a mod bot I made out of boredom.The command prefix is >.
-* The link to Invite is here: [EndorCore Invite](https://discord.com/oauth2/authorize?client_id=802629460200259584&scope=bot&permissions=0 "EncdorCore title")
+* The link to Invite is here: [EndorCore Invite](https://discord.com/api/oauth2/authorize?client_id=802629460200259584&permissions=8&scope=bot "EncdorCore title")
 	
 ## Info
 Project is created with:
