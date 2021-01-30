@@ -41,6 +41,8 @@ The comands are:
 * meme
 * info
 * commands
+* purge
+* poll 
 
 
 
