@@ -5,6 +5,7 @@
 * [Info](#info)
 * [Setup](#setup)
 * [Commands](#commands)
+* [Chat Filter](#chat-filter)
 
 ## General info
 * This is a mod bot I made out of boredom.The command prefix is >.
@@ -44,5 +45,7 @@ The comands are:
 * purge
 * poll 
 
+## Chat Filter
+EndorCore has a basic chat filter that isn't too annoying. It bans most swear words, racial slurs, and bad stuff in general. You can still get around it with some censoring which is part of the reason why it's not annoying.
 
 
