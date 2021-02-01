@@ -6,6 +6,8 @@
 * [Setup](#setup)
 * [Commands](#commands)
 * [Chat Filter](#chat-filter)
+* [Polls](#polls)
+* [Purge](#purge)
 
 ## General info
 * This is a mod bot I made out of boredom.The command prefix is >.
@@ -30,10 +32,10 @@ First, invite the bot on your server.
 
 ## Commands
 The comands are:
-* ban member reason
-* unban both username and numbers at the end
-* kick member
-* mute member
+* ban 
+* unban 
+* kick 
+* mute 
 * hi
 * shut-up
 * gn
@@ -48,4 +50,10 @@ The comands are:
 ## Chat Filter
 EndorCore has a basic chat filter that isn't too annoying. It bans most swear words, racial slurs, and bad stuff in general. You can still get around it with some censoring which is part of the reason why it's not annoying.
 
+## Polls
+One feature of EndorCore that is pretty unique is polls. All you need to do is the poll command and ask the question
+*`>poll *question here*`
 
+## Purge
+Purge is a command that deletes messages. All you need to do is use the command and add a number(if you don't add a number, it'll delete one message). It'll delete the amount specified PLUS 1(to account for the command itself)
+*`>purge *amount here*`
