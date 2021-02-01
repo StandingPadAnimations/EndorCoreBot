@@ -46,6 +46,7 @@ The comands are:
 * commands
 * purge
 * poll 
+* cat
 
 ## Chat Filter
 EndorCore has a basic chat filter that isn't too annoying. It bans most swear words, racial slurs, and bad stuff in general. You can still get around it with some censoring which is part of the reason why it's not annoying.
