@@ -12,14 +12,14 @@
 ## General info
 * This is a mod bot I made out of boredom.The command prefix is >.
 * The link to Invite is here: [EndorCore Invite](https://discord.com/api/oauth2/authorize?client_id=802629460200259584&permissions=8&scope=bot "EncdorCore title")
+* To report bugs or request new features: [Bugs/Feature Request](https://github.com/StandingPadAnimations/EndorCoreBot/issues "bugs")
 	
 ## Info
 Project is created with:
 * [Python 3.7.7](https://www.python.org/downloads/release/python-377/ "Python 3.7.7 title")
 * [Video Studio Code](https://code.visualstudio.com/ "VSCode title")
 * [Runned on a Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/ "Raspberry Pi 4 title")
-* Curent version is V4
-	
+
 ## Setup
 First, invite the bot on your server.
 
