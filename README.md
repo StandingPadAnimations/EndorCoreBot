@@ -68,4 +68,4 @@ EndorCore has 3 Reddit commands:
 * blend (r/blender)
 * meme (r/memes)
 
-These commands take a while to load the reddit posts, so don't think the bot is failing.
+These commands take a while to load the reddit posts, so don't think the bot is failing(unless it never sends something, then go to [Bugs/Feature Request](https://github.com/StandingPadAnimations/EndorCoreBot/issues "bugs")).
