@@ -8,6 +8,7 @@
 * [Chat Filter](#chat-filter)
 * [Polls](#polls)
 * [Purge](#purge)
+* [Reddit](#reddit)
 
 ## General info
 * This is a mod bot I made out of boredom.The command prefix is >.
@@ -47,14 +48,24 @@ The comands are:
 * purge
 * poll 
 * cat
+* neko
+* blend
 
 ## Chat Filter
 EndorCore has a basic chat filter that isn't too annoying. It bans most swear words, racial slurs, and bad stuff in general. You can still get around it with some censoring which is part of the reason why it's not annoying.
 
 ## Polls
 One feature of EndorCore that is pretty unique is polls. All you need to do is the poll command and ask the question
-*`>poll *question here*`
+* `>poll *question here*`
 
 ## Purge
 Purge is a command that deletes messages. All you need to do is use the command and add a number(if you don't add a number, it'll delete one message). It'll delete the amount specified PLUS 1(to account for the command itself)
-*`>purge *amount here*`
+* `>purge *amount here*`
+
+## Reddit
+EndorCore has 3 Reddit commands:
+* cat (r/cats)
+* blend (r/blender)
+* meme (r/memes)
+
+These commands take a while to load the reddit posts, so don't think the bot is failing.
