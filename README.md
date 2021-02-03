@@ -1,5 +1,11 @@
 # EndorCore Discord Bot
 
+# This Repository is no longer maintained so info here is outdated. I moved the EndorCore Wiki to here: https://sites.google.com/view/standingpadanimations/Development-Stuff/endorcore-wiki?authuser=0
+
+
+
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Info](#info)
